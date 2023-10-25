@@ -1,0 +1,10 @@
+appId: Qxh3zbny1
+productName: H.V.Password
+directories:
+  output: ./dist
+files:
+  - "dist/electron/**/*"
+asar: true
+win:
+  target: nsis
+  icon: icon.ico

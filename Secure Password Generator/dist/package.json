@@ -1,0 +1,19 @@
+{
+  "name": "secure-password-generator",
+  "version": "1.0.0",
+  "description": "A secure password generator app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Hugo Vazquez",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^16.0.0"
+  },
+  "build": {
+    "appId": "Qxh3zbny1",
+    "productName": "H.V Secure Password Generator",
+    "electronVersion": "16.0.0" 
+  }
+}
