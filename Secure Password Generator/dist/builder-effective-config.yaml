@@ -1,0 +1,7 @@
+directories:
+  output: dist
+  buildResources: build
+appId: Qxh3zbny1
+productName: H.V Secure Password Generator
+electronVersion: 16.0.0
+files: []
